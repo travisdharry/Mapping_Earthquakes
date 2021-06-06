@@ -30,6 +30,9 @@ MANIFEST
 #.DS_Store
 .DS_Store
 
+# config.js
+config.js
+
 #Practice
 practice/
 
