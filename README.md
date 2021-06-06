@@ -10,5 +10,5 @@ We were asked to build a webpage that would display a map marking locations of e
 
 ## Results
 <p align ="center">
-<img src="static/images/webpage1.png" alt="Earthquakes and Tectonic Plates"/><br>
+<img src="Earthquake_Challenge/static/images/webpage1.png" alt="Earthquakes and Tectonic Plates"/><br>
 </p>
